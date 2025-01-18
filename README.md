@@ -1,2 +1,2 @@
-# Scripting_Test
-This is for testing.
+This file is for testing only.
+No need to check it out.
